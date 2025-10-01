@@ -1,0 +1,11 @@
+.BasketDeviceItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+}
+.description {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
